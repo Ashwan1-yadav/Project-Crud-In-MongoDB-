@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "alex",
+    "age": "21",
+    "email ": "alex@alex.com",
+    "address": "npc"
+  },
+  {
+    "id": 2,
+    "name": "bobby",
+    "age": "45",
+    "email ": "bobby@sql.com",
+    "address": "united kingdom"
+  }
+]
